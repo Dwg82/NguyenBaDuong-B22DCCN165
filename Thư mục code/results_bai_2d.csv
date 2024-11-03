@@ -1,0 +1,134 @@
+Attribute,Best Team,Value
+Age,West Ham,28.272727272727273
+Matches,Fulham,27.238095238095237
+Starts,Fulham,19.904761904761905
+Minutes,Manchester City,1785.5714285714287
+non_penalty_goals,Manchester City,4.0476190476190474
+penalty_goals,Arsenal,0.47619047619047616
+assists,Manchester City,3.238095238095238
+yellow_cards,Chelsea,4.32
+red_cards,Burnley,0.25
+xG,Liverpool,4.1000000000000005
+npxG,Liverpool,3.7545454545454544
+xAG,Liverpool,2.9318181818181817
+PrgC,Manchester City,53.476190476190474
+PrgP,Arsenal,99.61904761904762
+PrgR,Arsenal,98.85714285714286
+per90_Gls,Newcastle Utd,0.22
+per90_Ast,Tottenham,0.18541666666666667
+per90_G+A,Manchester City,0.3561904761904762
+per90_G-PK,Newcastle Utd,0.20291666666666666
+per90_G+A-PK,Manchester City,0.34095238095238095
+per90_xG,Everton,0.20478260869565218
+per90_xAG,Tottenham,0.16125
+per90_xG+xAG,Manchester City,0.3376190476190476
+per90_npxG,Everton,0.19869565217391305
+per90_npxG+xAG,Tottenham,0.32708333333333334
+PKatt,Chelsea,0.48
+Gls,Manchester City,4.476190476190476
+Sh,Liverpool,35.40909090909091
+SoT,Manchester City,12.428571428571429
+Sh/90,Liverpool,1.7281818181818183
+SoT/90,Liverpool,0.5822727272727273
+FK,Manchester City,1.1904761904761905
+PK,Arsenal,0.47619047619047616
+xG_shooting,Liverpool,4.1000000000000005
+npxG_shooting,Liverpool,3.7545454545454544
+G-xG,Manchester City,0.6142857142857142
+np:G-xG,Manchester City,0.5571428571428572
+Pass_Cmp,Chelsea,1999.56
+Pass_Att,Arsenal,19.785714285714285
+Pass_Cmp%,Manchester City,1159.4285714285713
+TotDist,Manchester City,1307.6190476190477
+PrgDist,Manchester City,86.28095238095239
+Short_Cmp,Liverpool,5386.318181818182
+Short_Att,Manchester City,605.5714285714286
+Short_Cmp%,Manchester City,644.7142857142857
+Medium_Cmp,Manchester City,92.92857142857143
+Medium_Att,Manchester City,446.3333333333333
+Medium_Cmp%,Manchester City,486.8095238095238
+Long_Cmp,Manchester City,89.36190476190475
+Long_Att,Manchester City,78.42857142857143
+Long_Cmp%,Everton,134.2173913043478
+Ast,Manchester City,3.142857142857143
+xA,Manchester City,2.880952380952381
+A-xAG,Manchester City,0.3095238095238095
+KP,Liverpool,27.181818181818183
+1/3,Manchester City,89.9047619047619
+PPA,Arsenal,26.0
+CrsPA,Fulham,4.142857142857143
+Pass_Live,Manchester City,1230.4285714285713
+Pass_Dead,Fulham,82.57142857142857
+Pass_FK,Aston Villa,27.304347826086957
+Pass_TB,Arsenal,4.9523809523809526
+Pass_Sw,West Ham,7.181818181818182
+Pass_Crs,Liverpool,37.13636363636363
+Pass_TI,Liverpool,34.31818181818182
+Pass_CK,Manchester City,13.476190476190476
+Corner_In,Arsenal,10.333333333333334
+Corner_Out,Liverpool,7.7727272727272725
+Corner_Str,Wolves,0.6
+Pass_Cmp_outcome,Manchester City,1159.4285714285713
+Pass_Off,Liverpool,4.545454545454546
+Pass_Blocks,Tottenham,20.0
+SCA,Liverpool,63.04545454545455
+SCA90,Liverpool,3.2145454545454544
+SCA_type_Passlive,Liverpool,47.5
+SCA_type_Passdead,Liverpool,5.2727272727272725
+SCA_type_TO,Manchester City,3.0476190476190474
+SCA_type_Sh,Liverpool,4.545454545454546
+SCA_type_Fld,Manchester City,2.4285714285714284
+SCA_type_Def,Everton,1.434782608695652
+GCA,Manchester City,7.809523809523809
+GCA90,Arsenal,0.40904761904761905
+GCA_type_Passlive,Manchester City,5.761904761904762
+GCA_type_Passdead,Arsenal,0.7619047619047619
+GCA_type_TO,Newcastle Utd,0.75
+GCA_type_Sh,Luton Town,0.64
+GCA_type_Fld,Arsenal,0.6190476190476191
+GCA_type_Def,Manchester Utd,0.19230769230769232
+Tkl,Crystal Palace,32.833333333333336
+TklW,Everton,19.52173913043478
+Def_3rd,Fulham,399.2857142857143
+Mid_3rd,Manchester City,678.6666666666666
+Att_3rd,Manchester City,477.1904761904762
+Challenges_Tkl,Fulham,15.952380952380953
+Challenges_Att,Liverpool,34.45454545454545
+Challenges_Lost,Liverpool,19.136363636363637
+Blocks,West Ham,22.045454545454547
+Blocks_Sh,West Ham,8.090909090909092
+Blocks_Pass,Liverpool,16.454545454545453
+Blocks_Int,Fulham,16.904761904761905
+Blocks_Tkl+Int,Everton,48.391304347826086
+Blocks_Clr,West Ham,41.13636363636363
+Blocks_Err,Tottenham,1.0
+Touches,Manchester City,1479.2380952380952
+Def_Pen,Fulham,131.8095238095238
+Att_Pen,Arsenal,70.28571428571429
+Live_Touches,Manchester City,1478.7619047619048
+Take_Att,Chelsea,34.64
+Take_Succ,Manchester City,17.952380952380953
+Take_Tkld,Bournemouth,15.615384615384615
+Carries,Manchester City,950.5238095238095
+Carries_TotDist,Manchester City,4948.761904761905
+Carries_ProDist,Manchester City,2730.714285714286
+Carries_ProgC,Manchester City,52.285714285714285
+Carries_1/3,Manchester City,40.333333333333336
+Carries_CPA,Manchester City,19.333333333333332
+Carries_Mis,Liverpool,25.727272727272727
+Carries_Dis,Liverpool,18.227272727272727
+Rec,Manchester City,1143.5714285714287
+Rec_PrgR,Arsenal,98.85714285714286
+PT_Starts,Arsenal,19.857142857142858
+PT_Compl,Manchester City,14.238095238095237
+Subs,Fulham,7.095238095238095
+Subs_unSub,West Ham,7.2727272727272725
+Fls,Tottenham,21.041666666666668
+Fld,Liverpool,4.545454545454546
+Off,Liverpool,37.13636363636363
+Crs,Fulham,16.904761904761905
+OG,Everton,19.52173913043478
+Recov,Chelsea,0.44
+Aerial_Won,West Ham,0.45454545454545453
+Aerial_Lost,Sheffield Utd,0.23333333333333334
+Aerial_Won%,Liverpool,92.0
